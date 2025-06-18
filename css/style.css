@@ -1,0 +1,46 @@
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #f8f9fa;
+}
+
+.header-container {
+    border-bottom: 1px solid #000;
+}
+
+.card {
+    border: 1px solid #000 !important;
+    border-radius: 0.5rem;
+}
+
+.card-body {
+    padding: 1.5rem !important;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+h2 {
+    font-size: 1rem;
+}
+
+.btn-link {
+    text-decoration: none;
+}
+
+.btn-link:hover {
+    text-decoration: underline;
+}
+
+.btn-outline-dark {
+    border-width: 1px;
+    border-color: #000;
+    color: #000;
+    border-radius: 0.5rem;
+    background-color: #fff;
+}
+
+.btn-outline-dark:hover {
+    background-color: #000;
+    color: #fff;
+}
